@@ -15,3 +15,7 @@ Esta aplicación hace las siguientes conversiones de moneda:
 7) Salir del Programa
 
 El menú solicita 7 opciones (del 0 al 1), y solicita ingresar un dato válido en caso de digitar un número fuera del rango o en caso de caracteres alfanuméricos.
+
+A continuación se adjunta una imagen de la vista principal de la Interfaz de Usuario de la Aplicación "Conversor de Monedas":
+![image](https://github.com/AlfredoLF/mi_conversor_de_monedas/assets/82850657/6bb8fc10-2314-4dc9-99ed-95cc4fd0d1d9)
+
