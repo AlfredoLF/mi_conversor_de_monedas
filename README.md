@@ -1,7 +1,7 @@
 # mi_conversor_de_monedas
 
-# Diseñó: Alfredo Lozada Fuentes.
-# Correo Electrónico: alfredo.lozada@udea.edu.co
+### Diseñó: Alfredo Lozada Fuentes.
+### Correo Electrónico: alfredo.lozada@udea.edu.co
 
 El presente proyecto es la base de una aplicación para convertir monedas. Se usa la información de la API "ExchangeRate-API - Free & Pro Currency Converter API" para obtener la información sobre los valores de las monedas que se desea convertir y se conecta con la aplicación de Java.
 
